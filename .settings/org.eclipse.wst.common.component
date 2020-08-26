@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                            
+    
+    
+    
+    
+    
+    <wb-module deploy-name="002YIKorisnici">
+                                                        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.tld"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.process"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.process.learn.test"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.learning.test"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.country"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.country.test"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.web.app"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.application"/>
+                                        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.database.test"/>
+                                        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.database.mysql"/>
+                                
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.database.web.test"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.database.mysql"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.app.services"/>
+                                                        
+        
+        
+        
+        
+        
+        <property name="context-root" value="002YIKorisnici"/>
+                                                        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/002YIKorisnici/build/classes"/>
+                                                    
+    
+    
+    
+    
+    
+    </wb-module>
+                        
+
+
+
+
+
+</project-modules>
