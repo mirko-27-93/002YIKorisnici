@@ -62,7 +62,7 @@ public class DatabaseUserInfoService extends HttpServlet{
 			
 			
 			boolean existsYIUser = false;
-			try{dao.isRealDBUser(username);}catch(Exception ex) {}
+			try{ existsYIUser = dao.isRealDBUser(username);}catch(Exception ex) {}
 			
 			JsonArray tables = new JsonArray();
 			JsonArray procedures = new JsonArray();
